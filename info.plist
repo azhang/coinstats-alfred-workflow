@@ -4,8 +4,6 @@
 <dict>
 	<key>bundleid</key>
 	<string>io.navarro.coinstats</string>
-	<key>category</key>
-	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>4E459D46-8D5F-400D-839C-B19594550C5C</key>
@@ -61,7 +59,7 @@
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>keyword</key>
