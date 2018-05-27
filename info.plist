@@ -4,6 +4,8 @@
 <dict>
 	<key>bundleid</key>
 	<string>io.navarro.coinstats</string>
+        <key>category</key>
+	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>4E459D46-8D5F-400D-839C-B19594550C5C</key>
